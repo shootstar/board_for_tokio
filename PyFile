@@ -1,0 +1,4 @@
+pkg('Django','==1.5')
+pkg('South','==0.7.6')
+pkg('MySQL-python','==1.2.4')
+pkg('ipython')
